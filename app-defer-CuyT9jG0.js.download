@@ -1,0 +1,1 @@
+import"./footer-DNMKaWaV.js";import"./debounce-CHFeCx7p.js";var e=document.getElementById("search-input");e&&document.addEventListener("keydown",(t=>{document.activeElement!==e&&"/"===t.key&&(e.focus(),t.preventDefault())}));

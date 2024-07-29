@@ -1,5 +1,4 @@
-name: Jekyll site CI
-Stock control supervisors . Romeo Rosete
+name: Jekyll si
 on:
   push:
     branches: [ "master" ]
