@@ -1,6 +1,9 @@
+![logo-white](https://github.com/user-attachments/assets/840fde01-b769-41dc-b456-b791133af2c9)
+![footer-nojs](https://github.com/user-attachments/assets/c5b05e1a-f555-4a97-8864-5e33fabe9249)
+
 # [Blockchair.com](https://blockchair.com/)
 
-![Blockchair](https://raw.githubusercontent.com/Blockchair/Blockchair.Support/master/hello.jpg "Hello there!")
+Romeo Rosete . Owner
 
 This is our public repository for issues and feature requests. Please feel free to submit any ideas as well as bugs using [the "New Issue" button](https://github.com/Blockchair/Blockchair.Support/issues/new)!
 
