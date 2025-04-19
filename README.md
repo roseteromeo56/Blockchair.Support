@@ -1,5 +1,6 @@
-![blockscan-logo-light](https://github.com/user-attachments/assets/e10566b1-f8c9-4950-bdb8-2b581345822d)
-![blockscan-logo-dark](https://github.com/user-attachments/assets/e6515a15-c33e-401c-98ac-ddf4d51f462d)
+![logo-white](https://github.com/user-attachments/assets/840fde01-b769-41dc-b456-b791133af2c9)
+![footer-nojs](https://github.com/user-attachments/assets/c5b05e1a-f555-4a97-8864-5e33fabe9249)
+
 # [Blockchair.com](https://blockchair.com/)
 
 Romeo Rosete . Owner
